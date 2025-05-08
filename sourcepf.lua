@@ -14,8 +14,8 @@
 
     ~ Credits ~
 
-    [ ikuraxc ] - [ @1210533654871150632 ] | Lead Developer
-    [ 3bay ] - [ @892988926300663858 ] | Lead Developer
+    [ ikura ] - [ @896378803868295178 ] | Lead Developer
+    [ Mickey ] - [ @953720095811719208 ] | Lead Developer
 
     
 ]]
